@@ -26,7 +26,6 @@ scissors = '''
 ---.__(___)
 '''
 
-# Write your code below this line 👇
 rcp = [rock, paper, scissors]
 leng = len(rcp)-1
 # print(leng)
